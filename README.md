@@ -1,6 +1,6 @@
-<img src="Board_image.PNG" alt="Board Image"/>
-
 # FreeBMS
+
+<center><img src="Board_image.PNG" alt="Board Image"/></center>
 
 
 FreeBMS was inspired by diyBMS v4 by Stuart Pittaway and the diyBMS v4 Leaf circuit board by George Boudreau. This is still in VERY EARLY DEVELOPMENT and is completely UNTESTED. I highly recommend no one attempt to build this unless they have the skills and knowledge to do so safely. 
