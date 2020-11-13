@@ -2,8 +2,11 @@
 
 
 FreeBMS was inspired by diyBMS v4 by Stuart Pittaway and the diyBMS v4 Leaf circuit board by George Boudreau. This is still in VERY EARLY DEVELOPMENT and is completely UNTESTED. I highly recommend no one attempt to build this unless they have the skills and knowledge to do so safely. 
+
 I am posting this here in the hopes of finding other interested people, especially ones that may be able to help with the project.
-I am building this project because I could not find another BMS that is both affordable and supports 96 cells in series. This BMS will have a limit of 256 cells (if it is powered separately). Like the diyBMS by Stuart Pittaway this BMS will be decentralized and have optically isolated modules on each cell connected via serial. 
+I am building this project because I could not find another BMS that is both affordable and supports 96 cells in series. This BMS will have a limit of 256 cells (if it is powered separately). 
+
+Like the diyBMS by Stuart Pittaway this BMS will be decentralized and have optically isolated modules on each cell connected via serial. 
 I will be using George Boudreau’s Leaf boards and designing my own controller. This should also be hardware compatible with the diyBMS v4 boards. I will also be writing my own serial protocol as the diyBMS v4 protocol has a limit of (I believe) 48 cells. The software will not be compatible with the diyBMS boards and all boards will need to be programed especially for this.
 
 
