@@ -1,3 +1,5 @@
+<img src="Board_image.PNG" alt="Board Image"/>
+
 # FreeBMS
 
 
